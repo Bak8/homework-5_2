@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8EAEDDDD-EF84-4AA7-BD94-B7624CEFF1F6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "576594B5-97CB-4421-A38A-33AE29AB4DB3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/AddProductViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "configurePostingProductsData(model:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "576594B5-97CB-4421-A38A-33AE29AB4DB3 - 8ecd5313f8bfd7a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for Homework4_4.AddProductViewController.configurePostingProductsData(model: Homework4_4.ProductModel) async throws -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "576594B5-97CB-4421-A38A-33AE29AB4DB3 - 228a711097e3ea93"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for Homework4_4.AddProductViewController.configurePostingProductsData(model: Homework4_4.ProductModel) async throws -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "576594B5-97CB-4421-A38A-33AE29AB4DB3 - a97a1e9d5181cd97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for Homework4_4.AddProductViewController.configurePostingProductsData(model: Homework4_4.ProductModel) async throws -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA7B0071-FC49-4075-9167-A8F1B19DBA58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVC/Controller/AddProductViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "addNewProductButton(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA7B0071-FC49-4075-9167-A8F1B19DBA58 - b1a7b9544f9f8c10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Homework4_4.AddProductViewController.addNewProductButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "4512">
+               </Location>
+               <Location
+                  uuid = "DA7B0071-FC49-4075-9167-A8F1B19DBA58 - f7fdec17a0332cf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in Homework4_4.AddProductViewController.addNewProductButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "DA7B0071-FC49-4075-9167-A8F1B19DBA58 - f689cb5125754812"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Homework4_4.AddProductViewController.addNewProductButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "DA7B0071-FC49-4075-9167-A8F1B19DBA58 - 557ef26f7061a613"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in Homework4_4.AddProductViewController.addNewProductButton(__C.UIButton) -&gt; ()"
+                  moduleName = "Homework4.4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ataibegaliev/Downloads/homework4.4%202%202%20NEW%20VERSION/MVC/Controller/AddProductViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
